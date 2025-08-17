@@ -12,7 +12,7 @@ main:
     url: /files/CV_August2025.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.com/citations?hl=en&user=PK9HqeMAAAAJ&view_op=list_works"
   
   - title: "Current Projects"
     url: /projects/
