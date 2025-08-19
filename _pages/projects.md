@@ -12,7 +12,7 @@ Below, I outline the projects that I am currently working on, each one being at 
 - ***Tracks:*** Empirical Investigation (2), Theoretical Modeling (3)
 - ***Infrastructure Type(s):*** Flooding and EV Charging
 - ***Scope:*** US Local Public Managers 
-- ***Method(s):*** surveys, interviews, structural equation modeling, agent-based modeling
+- ***Method(s):*** Surveys, Interviews, Structural Equation Modeling, Agent-Based Modeling
 
 > ***Question(s):***
 > 1. How does environmental, financial, and user demand uncertainty affect local infrastructure managers, within varying organizational contexts and collaborative networks, in their,
@@ -32,7 +32,7 @@ Below, I outline the projects that I am currently working on, each one being at 
 - ***Tracks:*** Theoretical Modeling (3)
 - ***Infrastructure Type(s):*** General
 - ***Scope:*** Single Public Infrastructure System
-- ***Method(s):*** dynamical systems modeling
+- ***Method(s):*** Dynamical Systems Modeling
 
 > ***Question(s):***
 > How does the political-economic process of infrastructure investment shape the robustness of shared infrastructure systems to social and environmental variation?
@@ -60,7 +60,7 @@ Below, I outline the projects that I am currently working on, each one being at 
 - ***Tracks:*** Applied Systems Modeling (1), Empirical Investigation (2)
 - ***Infrastructure Type(s):*** Urban Drinking Water
 - ***Scope:*** Phoenix Metro Area Cities (AZ) and Indianapolis, IN
-- ***Method(s):*** dynamical systems modeling, process tracing 
+- ***Method(s):*** Dynamical Systems Modeling, Process Tracing
 
 > ***Question(s):***
 > How does institutional design affect an infrastructure system's robustness to environmental changes?
@@ -97,7 +97,7 @@ Below, I outline the projects that I am currently working on, each one being at 
 - ***Tracks:*** Empirical Investigation (2)
 - ***Infrastructure Type(s):*** Water (Urban and Agricultural)
 - ***Scope:*** Arizona Water User Associations
-- ***Method(s):*** surveys, interviews, network analysis 
+- ***Method(s):*** Surveys, Interviews, Network Analysis
 
 > ***Question(s):***
 > How do the inclusion criteria of a collaborative forum relate to participants’ perceptions of forum functionality, given their expressed management concerns?
