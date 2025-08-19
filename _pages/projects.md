@@ -63,6 +63,8 @@ Below, I outline the projects that I am currently working on, each one being at 
 > ***Question(s):***
 > How does institutional design affect an infrastructure system's robustness to environmental changes?
 
+![Institutional Choice Architectures Model Overview](/images/InstFriction_OurApproach.png)
+
 <details>
   <summary>
     <strong>Project Overview</strong>
