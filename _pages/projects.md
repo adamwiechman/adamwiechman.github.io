@@ -39,6 +39,8 @@ Below, I outline the projects that I am currently working on, each one being at 
 
 ![Political Economy of Shared Infrastructure Model Overview](/images/Ch2_ModelOverview_PNAS.png)
 
+(Wiechman et al, under review)
+
 <details>
   <summary>
     <strong>Project Overview</strong>
@@ -64,6 +66,8 @@ Below, I outline the projects that I am currently working on, each one being at 
 > How does institutional design affect an infrastructure system's robustness to environmental changes?
 
 ![Institutional Choice Architectures Model Overview](/images/InstFriction_OurApproach.png)
+
+(Wiechman et al, under review)
 
 <details>
   <summary>
@@ -101,6 +105,8 @@ Below, I outline the projects that I am currently working on, each one being at 
 > What motivates system actors to participate in intermediate collaborative forums?
 
 ![WUA Approach](/images/WUA_Figure1_R1.png)
+
+(Wiechman et al, under review)
 
 <details>
   <summary>
