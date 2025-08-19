@@ -37,6 +37,8 @@ Below, I outline the projects that I am currently working on, each one being at 
 > ***Question(s):***
 > How does the political-economic process of infrastructure investment shape the robustness of shared infrastructure systems to social and environmental variation?
 
+![Political Economy of Shared Infrastructure Model Overview](/images/Ch2_ModelOverview_PNAS.pdf)
+
 <details>
   <summary>
     <strong>Project Overview</strong>
