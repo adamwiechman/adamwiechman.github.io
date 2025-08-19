@@ -6,22 +6,50 @@ redirect_from:
   - /projects.html
 ---
 
-## Uncertainty, Institutional Design, Collaboration, and Infrastructure Investment
+<details>
+  <summary>
+    Uncertainty, Institutional Design, Collaboration, and Infrastructure Investment
+  </summary>
+  <details>
+    <summary>
+      Survey - Flooding and EV Charging Infrastructure (US Local Managers)
+    </summary>
+  </details>
+  <details>
+    <summary>
+      Agent-Based Modeling - Collective Inference & Robustness of Infrastructure Systems
+    </summary>
+  </details>
+</details> 
 
-### Survey - Flooding and EV Charging Infrastructure in Federal Investment Climate
+<details>
+  <summary>
+    Political Economy of Shared Infrastructure
+  </summary>
+</details>
 
-### Agent-Based Modeling - Collective Inference & Robustness of Infrastructure Systems
+<details>
+  <summary>
+    Institutional Friction, Flexibility, and Robustness in Infrastructure Systems
+  </summary>
+</details>
 
-## Political Economy of Shared Infrastructure
+<details>
+  <summary>
+    Collaborative Forum Design and Functionality: Arizona Water User Associations
+  </summary>
+</details>
 
-### Theoretical Systems Model - Politics, Inequality, and Robustness of Shared Infrastructure
+%## Political Economy of Shared Infrastructure
 
-## Institutional Friction, Flexibility, and Robustness in Infrastructure Systems
+%### Theoretical Systems Model - Politics, Inequality, and Robustness of Shared Infrastructure
 
-### Dynamical Systems Model - Urban Water in Phoenix Metro Area
+%## Institutional Friction, Flexibility, and Robustness in Infrastructure Systems
 
-## Collaborative Forum Design and Functionality: Arizona Water User Associations
+%### Dynamical Systems Model - Urban Water in Phoenix Metro Area
 
-### Survey - Arizona Water User Association Member Survey and Inclusion-Consensus Trade-Off
+%## Collaborative Forum Design and Functionality: Arizona Water User Associations
 
-### Interviews - Intermediate Collaborative Forums 
+%### Survey - Arizona Water User Association Member Survey and Inclusion-Consensus Trade-Off
+
+%### Interviews - Intermediate Collaborative Forums 
