@@ -100,6 +100,8 @@ Below, I outline the projects that I am currently working on, each one being at 
 > What role do intermediate collaborative forums play in the Phoenix Metro Area municipal surface water governance system?
 > What motivates system actors to participate in intermediate collaborative forums?
 
+![WUA Approach](/images/WUA_Figure1_R1.png)
+
 <details>
   <summary>
     <strong>Project Overview</strong>
