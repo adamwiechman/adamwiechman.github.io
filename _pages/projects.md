@@ -12,5 +12,3 @@ redirect_from:
 ## Empirical Work
 
 ## Agent-Based Modeling
-
-asdf
