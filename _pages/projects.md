@@ -34,39 +34,40 @@ redirect_from:
     </summary>
     
     <em>Under Review</em>: "Politics, Inequality, & Robustness of Shared Infrastructure Systems in the Anthropocene" with Margaret Garcia and Marty Anderies
-</p>
-
-    
   </details>
 </details>
+</p>
 
-<details>
+<p>
+  <details>
   <summary>
     Institutional Friction, Flexibility, and Robustness in Infrastructure Systems
   </summary>
-  <details>
-    <summary>
+    <details>
+      <summary>
       Applied Systems Model - Urban Water in Phoenix Metro Area
-    </summary>
+      </summary>
     
-    <em>Under Review</em>: "Connecting Institutional Design to Infrastructure System Robustness: A Mixed Methods Investigation of Organizational Choice" with Aaron Deslatte, Elizabeth Koebele, Margaret Garcia, and Marty Anderies
+      <em>Under Review</em>: "Connecting Institutional Design to Infrastructure System Robustness: A Mixed Methods Investigation of Organizational Choice" with Aaron Deslatte, Elizabeth Koebele, Margaret Garcia, and Marty Anderies
 
-    <strong>Publication</strong> in <em>Water Resources Research</em>: "Institutional Dynamics Impact the Response of Urban Socio-Hydrologic Systems to Supply Challenges" with Sara Alonso Vicario, Koorosh Azizi, George Hornberger, Margaret Garcia, and Marty Anderies (2024) [link](https://doi.org/10.1029/2023WR035565)
+      <strong>Publication</strong> in <em>Water Resources Research</em>: "Institutional Dynamics Impact the Response of Urban Socio-Hydrologic Systems to Supply Challenges" with Sara Alonso Vicario, Koorosh Azizi, George Hornberger, Margaret Garcia, and Marty Anderies (2024) [link](https://doi.org/10.1029/2023WR035565)
     
-  </details>
-  <details>
-    <summary>
+    </details>
+    <details>
+      <summary>
       Process Tracing - Urban Water Institutions & Response in Phoenix and Indianapolis
-    </summary>
+      </summary>
     
-    <strong>Publication</strong> in <em>Public Administration</em>: "Embracing the ambiguity: Tracing climate response diversity in urban water management. " with Aaron Deslatte (lead) and Elizabeth Koebele (2025) [link](https://doi.org/10.1111/padm.13017)
+      <strong>Publication</strong> in <em>Public Administration</em>: "Embracing the ambiguity: Tracing climate response diversity in urban water management. " with Aaron Deslatte (lead) and Elizabeth Koebele (2025) [link](https://doi.org/10.1111/padm.13017)
     
-    <strong>Publication</strong> in <em>International Review of Public Policy</em>: "Institutions, Voids, and Dependencies: Tracing the Designs and Robustness of Urban Water Systems" with Aaron Deslatte (lead), Elizabeth Koebele, Lauren Bartels, Sara Alonso Vicario, Celeste Coughlin, and Desi Rybolt (2023) [link](https://journals.openedition.org/irpp/3455)
+      <strong>Publication</strong> in <em>International Review of Public Policy</em>: "Institutions, Voids, and Dependencies: Tracing the Designs and Robustness of Urban Water Systems" with Aaron Deslatte (lead), Elizabeth Koebele, Lauren Bartels, Sara Alonso Vicario, Celeste Coughlin, and Desi Rybolt (2023) [link](https://journals.openedition.org/irpp/3455)
     
+    </details>
   </details>
-</details>
+</p>
 
-<details>
+<p>
+  <details>
   <summary>
     Collaborative Forum Design and Functionality: Arizona Water User Associations
   </summary>
@@ -86,3 +87,5 @@ redirect_from:
     
   </details>
 </details>
+</p>
+
