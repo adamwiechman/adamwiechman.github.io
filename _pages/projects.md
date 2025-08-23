@@ -15,16 +15,13 @@ Below, I outline the projects that I am currently working on, each one being at 
 - ***Method(s):*** Surveys, Interviews, Structural Equation Modeling, Agent-Based Modeling
 
 > ***Question(s):***
-> 1. How does environmental, financial, and user demand uncertainty affect local infrastructure managers, within varying organizational contexts and collaborative networks, in their,
->> a. prioritization of investment strategies <br>
->> b. participation behavior in collaborative forums pertaining to infrastructure investment
-> 2. How does the institutional design of local public infrastructure providers and interlocal collaborative forums affect,
->> a. local infrastructure system robustness to environmental, social, and funding change? <br>
->> b. the distributional equity of infrastructure capacity across a region of coupled systems?
+> 1. How does environmental, financial, and user demand uncertainty affect local infrastructure managers, within varying organizational contexts and collaborative networks, in their, prioritization of investment strategies and participation behavior in collaborative forums?
+> 2. How can institutional design be leveraged to increase the robustness of local and regional infrastructure systems to environmental, social, and funding uncertainty?
 
 <details>
   <summary>
     <strong>Project Overview</strong>
+    
   </summary>
 </details>
 
