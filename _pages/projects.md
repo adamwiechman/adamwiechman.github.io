@@ -22,14 +22,14 @@ Below, I outline the projects that I am currently working on, each one being at 
   <summary>
     <strong>Project Overview</strong>
   </summary>
-  There is a resounding call from academics and practitioners to transition critical infrastructure systems, such as drinking water, storm water, transportation, and electricity, to both mitigate negative human influence on the environment and ensure that such critical systems can maintain their desired performance in unprecedented environmental changes (a.k.a., resilience). Moreover, the opportunity for transition coincides with increasing recognition of the need to fairly distribute the benefits and costs of infrastructure systems given their fundamental public value. 
-
+There is a resounding call from academics and practitioners to transition critical infrastructure systems, such as drinking water, storm water, transportation, and electricity, to both mitigate negative human influence on the environment and ensure that such critical systems can maintain their desired performance in unprecedented environmental changes (a.k.a., resilience). Moreover, the opportunity for transition coincides with increasing recognition of the need to fairly distribute the benefits and costs of infrastructure systems given their fundamental public value. 
+<br>
 However, given profound uncertainty pertaining to environmental and sociopolitical futures that our infrastructure systems are embedded within, it is imperative that our focus in deriving solutions extends beyond discrete investment or policy recommendations and examines the technical, institutional, and human determinants of information processing capacity that govern public infrastructure at multiple jurisdictional levels. One-shot policies can get our systems closer to a desired state, but neglecting the processes responsible for enacting and implementing the policy avoids the reality that there will always be a future problem. 
-
+<br>
 Thus, the central motivation behind this project, which serves as the core of my postdoctoral work at Princeton and the Levin Lab, is understanding (i) the technical, institutional, and human constraints on information processing within policy and administrative systems governing public infrastructure and (ii) the implications of these constraints for the resilience and fairness of our critical infrastructure systems.
-
+<br>
 The project consists of two parallel lines of scholarly investigation: one empirical and one theoretical. The empirical work centers around a survey of local infrastructure providers in the US, specializing in flooding and EV charging infrastructure, regarding their investment priorities, strategies, and collaborative behavior with regional organizations and peer providers. The planned survey is a follow-up to a 2022 survey conducted by Indiana University (<a href="[url](https://mgmt.lab.indiana.edu/performance/index.html)">website</a>) as an assessment of Biden era infrastructure legislation implementation. Given repeals of federal funding in 2025, this next survey will also serve to assess the effect major investment repeals on local infrastructure planning and perception of policy uncertainty. 
-
+<br>
 On the theory side, I am developing an agent-based model (ABM) of collective information processing in a regional coupled infrastructure system that extends prior work I have done on information processing in infrastructure providers (see below) to a network of multiple coordinating providers in a common biophysical and sociopolitical environment. The ABM will allow for simulation of the effect alternative regional cooordination schemes, investment priorities, and planning protocols will have on the robustness of infrastructure systems. 
 </details>
 
