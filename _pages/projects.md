@@ -68,11 +68,23 @@ The central product within this project is a political economic model of shared 
 My first manuscript with the model (under review) considers three key factors in public infrastructure systems: (i) the possibility for users to invest in private infrastructure instead of public or shared infrastructure, (ii) the possibility for the PIP to raise taxes only through use of the shared system (e.g., user fees) or to also tax private infrastructure use, and (iii) electoral competition for selecting PIPs. Adding these considerations to an abstract shared infrastructure system, I derive five propositions to ground the political economy of shared infrastructure and orient future empirical studies:
 </p>
 <p>
-1. <strong>Inequality, among users, in the ability to invest in private infrastructure</strong> <em>decreases</em> shared infrastructure robustness when there is a <strong> user fee </strong> revenue system.
-2. <strong>Taxing private infrastructure use</strong> can <em>increase</em> shared infrastructure robustness if the PIP is insulated from <strong> elite capture </strong>.
-3. The effect of <strong> equal political representation </strong> on shared infrastructure robustness <em>depends</em> on the biases and learning process of voters towards tax policy.
-4. The <strong> length of electoral cycles </strong> has a <em>parabolic relationship </em> with shared infrastructure robustness. Increasing electoral cycle length increases robustness up to a point where further increasing the cycle length decreases robustness.
-5. Increasing the <strong> ideological sensitivity </strong> of candidates <em> decreases </em> shared infrastructure robustness. 
+  <ol type="1">
+    <li>
+      <strong>Inequality, among users, in the ability to invest in private infrastructure</strong> <em>decreases</em> shared infrastructure robustness when there is a <strong> user fee </strong> revenue system.
+    </li>
+    <strong>Taxing private infrastructure use</strong> can <em>increase</em> shared infrastructure robustness if the PIP is insulated from <strong> elite capture </strong>.
+    <li>
+    </li>
+    <li>
+    The effect of <strong> equal political representation </strong> on shared infrastructure robustness <em>depends</em> on the biases and learning process of voters towards tax policy.
+    </li>
+    <li>
+    The <strong> length of electoral cycles </strong> has a <em>parabolic relationship </em> with shared infrastructure robustness. Increasing electoral cycle length increases robustness up to a point where further increasing the cycle length decreases robustness.
+    </li>
+    <li>
+    Increasing the <strong> ideological sensitivity </strong> of candidates <em> decreases </em> shared infrastructure robustness. 
+    </li>
+  </ol>
   </p>
 </details>
 
