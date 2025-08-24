@@ -72,8 +72,8 @@ My first manuscript with the model (under review) considers three key factors in
     <li>
       <strong>Inequality, among users, in the ability to invest in private infrastructure</strong> <em>decreases</em> shared infrastructure robustness when there is a <strong> user fee </strong> revenue system.
     </li>
-    <strong>Taxing private infrastructure use</strong> can <em>increase</em> shared infrastructure robustness if the PIP is insulated from <strong> elite capture </strong>.
     <li>
+      <strong>Taxing private infrastructure use</strong> can <em>increase</em> shared infrastructure robustness if the PIP is insulated from <strong> elite capture </strong>.
     </li>
     <li>
     The effect of <strong> equal political representation </strong> on shared infrastructure robustness <em>depends</em> on the biases and learning process of voters towards tax policy.
