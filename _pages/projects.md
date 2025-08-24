@@ -114,6 +114,12 @@ My first manuscript with the model (under review) considers three key factors in
   <summary>
     <strong>Project Overview</strong>
   </summary>
+  <p>
+    My doctoral research was motivated by a key gap in how urban water systems are modeled. Despite wide recognition that governance processes affect system response to change, they are rarely included in dynamic models, which can generate misleading findings about resilience. Thus, I developed a dynamical systems model, informed by workshops with Phoenix managers, that uses robust control algorithms to direct investment and ratemaking in urban water systems. I investigated the way institutions can increase costs to act (e.g., veto points) and affect the response of three Phoenix area cities to disruptions in Colorado River supply (Wiechman et al., 2024, Water Resources Research). I found that institutional costs can substantially decrease supply resilience but can benefit user rate burden. I am now leading a public administration paper (under review) to relate the institutional details governing ratemaking to the model’s institutional parameters. 
+  </p>
+  <p>
+    While I developed the model with the Urban Water Transitions Team, I also worked with a team led by Aaron Deslatte to trace the effect of institutional designs on decision making and response to environmental changes in Phoenix and Indianapolis, IN (see Public Administration, 2025 and International Review of Public Policy, 2023). This established the empirical basis for the modeling work that I am leading in the public administration paper noted above.  
+  </p>
 </details>
 
 <details>
@@ -153,6 +159,13 @@ My first manuscript with the model (under review) considers three key factors in
   <summary>
     <strong>Project Overview</strong>
   </summary>
+  <p>
+    Infrastructure providers, whether they are cities are regional entities, do not make decisions within their own system silo. There is always collaboration occuring between peers or across jurisdictional levels. While I was in Arizona, I saught to understand the collaborative governance processes at play in drinking water, primarily within the municipal space.  
+  </p>
+  <p>
+    The work consisted of two parts. First, I conducted interviews with managers in the Phoenix Metro Area. I found that forums focusing on a subset of similar actors can create tight coordination and pooling of resources that spills over to other benefits (e.g., lobbying), but may negatively impact actors not included (Wiechman et al., 2023, Journal of Public Administration Research). The second part consisted of a survey to compare multiple forums in Arizona, each with differing levels of inclusion in their membership rules (e.g., one required only public municipal providers with certain water rights while anothing allowed any user that used a certain amount of water). Thus, the central question in the survey work pertained to the trade-off between inclusion and consensus in forum design. I found that members in less inclusive forums benefit from capacities that require tight coordination (e.g., lobbying) while those in more inclusive forums are more likely to perceive their region as cooperative (under review). As environmental issues continue to cross jurisdictions, this work informs the design of needed collaborative forums.
+  </p>
+  
 </details>
 
 <details>
