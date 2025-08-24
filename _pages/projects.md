@@ -56,6 +56,24 @@ On the theory side, I am developing an agent-based model (ABM) of collective inf
   <summary>
     <strong>Project Overview</strong>
   </summary>
+
+  <p>
+  Within this project, I advance theoretical understanding of shared infrastructure political economies via computational modeling. Despite the tendency of most infrastructure systems work to silo specialities in a particular type (e.g., electricity or public transit), there are common patterns in the political economy (political and economic forces, here, cannot be separated!) of infrastructure investment that deserve higher level study. Public infrastructures are capital-intensive, high-inertia (difficult to alter), necessary for multiple types of economic activity, and responsible for universal public values that often take on the level of *rights* (e.g., one's right to drinking water). Because of this, investment decisions are incredibley complex, subjected to multiple environmental, rule-based, financial, and electoral constraints, but there are similar objectives pertaining to desired levels of fairness, reliability, and quality within uncertain biophysical and sociopolitical contexts. 
+  </p>
+<p>
+The central product within this project is a political economic model of shared infrastructure systems (see figure), involving an abstract infrastructure, a resource that requires infrastructure to use, users with varying capacities, and a public infrastructure provider (PIP) responsible for raising revenue (taxes) and investing in infrastructure.
+</p>
+
+<p>
+My first manuscript with the model (under review) considers three key factors in public infrastructure systems: (i) the possibility for users to invest in private infrastructure instead of public or shared infrastructure, (ii) the possibility for the PIP to raise taxes only through use of the shared system (e.g., user fees) or to also tax private infrastructure use, and (iii) electoral competition for selecting PIPs. Adding these considerations to an abstract shared infrastructure system, I derive five propositions to ground the political economy of shared infrastructure and orient future empirical studies:
+</p>
+<p>
+1. <strong>Inequality, among users, in the ability to invest in private infrastructure</strong> <em>decreases</em> shared infrastructure robustness when there is a <strong> user fee </strong> revenue system.
+2. <strong>Taxing private infrastructure use</strong> can <em>increase</em> shared infrastructure robustness if the PIP is insulated from <strong> elite capture </strong>.
+3. The effect of <strong> equal political representation </strong> on shared infrastructure robustness <em>depends</em> on the biases and learning process of voters towards tax policy.
+4. The <strong> length of electoral cycles </strong> has a <em>parabolic relationship </em> with shared infrastructure robustness. Increasing electoral cycle length increases robustness up to a point where further increasing the cycle length decreases robustness.
+5. Increasing the <strong> ideological sensitivity </strong> of candidates <em> decreases </em> shared infrastructure robustness. 
+  </p>
 </details>
 
 <details>
