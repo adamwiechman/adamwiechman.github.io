@@ -34,6 +34,8 @@ News
 ======
 **September 15-19, 2025**: I participated in the [Postdocs in Complexity Conference](https://www.santafe.edu/events/postdocs-in-complexity-global-conference-a-postdoc-tapestry-weaving-global-collaboration) at the Santa Fe Institute. I led a new research working group dedicated to understanding how to design institutions that structure the role of experts in decision-making and policy processes. 
 
+![Photo from SFI Working Group](/images/SFI_action.jpg)
+
 **August 11, 2025**: I started my position as a Postdoctoral Research Associate in the [High Meadows Environmental Institute](https://environment.princeton.edu/people/adam-wiechman/), working in the [Levin Lab](https://slevin.princeton.edu/people/adam-wiechman-phd). 
 
 **May 19-23, 2025**: I participated in the second meeting of the [Beijer Young Scholars](https://beijer.kva.se/current-beijer-young-scholars/) fourth cohort where we furthered projects dedicated to "Interacting Shocks in the Biosphere." See [Current Projects](/projects/) for project information.
