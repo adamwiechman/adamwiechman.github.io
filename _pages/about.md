@@ -34,7 +34,7 @@ News
 ======
 **September 15-19, 2025**: I participated in the [Postdocs in Complexity Conference](https://www.santafe.edu/events/postdocs-in-complexity-global-conference-a-postdoc-tapestry-weaving-global-collaboration) at the Santa Fe Institute. I led a new research working group dedicated to understanding how to design institutions that structure the role of experts in decision-making and policy processes. 
 
-<img src="/images/SFI_action.jpg" alt="Photo from SFI Working Group" width="200"/>
+<img src="/images/SFI_action.jpg" alt="Photo from SFI Working Group" width="400"/>
 
 **August 11, 2025**: I started my position as a Postdoctoral Research Associate in the [High Meadows Environmental Institute](https://environment.princeton.edu/people/adam-wiechman/), working in the [Levin Lab](https://slevin.princeton.edu/people/adam-wiechman-phd). 
 
