@@ -40,4 +40,6 @@ News
 
 **May 19-23, 2025**: I participated in the second meeting of the [Beijer Young Scholars](https://beijer.kva.se/current-beijer-young-scholars/) fourth cohort where we furthered projects dedicated to "Interacting Shocks in the Biosphere." See [Current Projects](/projects/) for project information.
 
+<img src="/images/BYS_2025.jpg" alt="Photo from BYS 2025" width="400"/>
+
 **May 12-13, 2025**: I graduated with my PhD in Sustainability from Arizona State University. I was named the Outstanding Graduate Student for the College of Global Futures and was featured in a [video](https://www.youtube.com/watch?v=VaQSa9KqLCc) and [article](https://news.asu.edu/20250509-sun-devil-community-asu-grad-takes-interdisciplinary-water-research-princeton-then-nyu) on ASU News. I also gave the graduate student convocation [speech](https://www.youtube.com/watch?v=S9nd0yMOido) for the College of Global Futures.
