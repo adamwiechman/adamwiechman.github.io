@@ -93,7 +93,7 @@ My first manuscript with the model (under review) considers three key factors in
     <strong> Relevant Publications </strong>
   </summary>
 
-  <em>Under Review</em>: "Politics, Inequality, & Robustness of Shared Infrastructure Systems in the Anthropocene" with Margaret Garcia and Marty Anderies
+  <em>Preprint</em>: "Politics, Inequality, & Robustness of Shared Infrastructure Systems in the Anthropocene" with Margaret Garcia and Marty Anderies, <a href="https://doi.org/10.1029/2023WR035565">link</a>
 </details>
     
 ## Institutional Friction, Flexibility, and Robustness in Infrastructure Systems
