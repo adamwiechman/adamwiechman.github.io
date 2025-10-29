@@ -32,6 +32,8 @@ Refer to my [Current Projects](/projects/) for more information on work in each 
 
 News
 ======
+**October 20-22, 2025**: I attended the National Sustainability Society annual conference at the University of Notre Dame, presenting, "Uncertainty, Collaboration, and Sustainable Infrastructure Governance in the US." This work is the empirical side of my primary postdoctoral work, which can be found in [Current Projects](/projects/). It was an absolute pleasure to be back at my alma mater, reconnecting with dear mentors, and making new connections with sustainability scholars. 
+
 **September 15-19, 2025**: I participated in the [Postdocs in Complexity Conference](https://www.santafe.edu/events/postdocs-in-complexity-global-conference-a-postdoc-tapestry-weaving-global-collaboration) at the Santa Fe Institute. I led a new research working group dedicated to understanding how to design institutions that structure the role of experts in decision-making and policy processes. 
 
 <img src="/images/SFI_action.jpg" alt="Photo from SFI Working Group" width="400"/>
