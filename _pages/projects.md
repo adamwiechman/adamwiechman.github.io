@@ -39,7 +39,7 @@ On the theory side, I am developing an agent-based model (ABM) of collective inf
 
 </details>
 
-## Policy Narratives and Justifying Costly Shared Infrastructure Investment
+## Policy Narratives and Justifying Local Public Infrastructure Investment
 - ***Tracks:*** Empirical Investigation (2)
 - ***Infrastructure Type(s):*** Drinking Water
 - ***Scope:*** US Drinking Water Systems 
