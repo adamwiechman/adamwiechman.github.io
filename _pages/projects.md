@@ -52,10 +52,14 @@ On the theory side, I am developing an agent-based model (ABM) of collective inf
 <details>
   <summary>
     <strong>Project Overview</strong>
+    </summary>
+  <p>
     Across the US, there is a resounding call to transition critical public infrastructure systems to facilitate broader sustainability goals, including climate adaptation, clean energy, water quality, affordability, and fair economic access. Yet, such transitions must grapple with the complex politics of infrastructure investment. In the US and abroad, there has been, a well-documented gap in investment in infrastructure directly attributable to political context and contingencies. In the US, local governments face a significant portion of the responsibility for such investment. Overall, a major reason for investment hesitancy is resistance to raising service fees and taxes (or “rates”) necessary to fund investments. Many infrastructure projects are not only capital intensive, but also have long lead times (design, construction, etc.), where costs to taxpayers accumulate before uncertain public benefits are realized, especially considering short-term electoral timescales. 
-
-This project is a large-scale narrative analysis of local news media pertaining to proposed rate increases to fund drinking water infrastructure investments across U.S. cities. The analysis will be used to identify common topics and possible successful narrative elements in generating political support. We theoretically situate this work within the Narrative Policy Framework in policy process research and seek to identify narrative attributes, through computational text analysis, that both descriptively characterize local policy narratives in the U.S. and relate the attributes to indicators of salience and political support.
-  </summary>
+  </p>
+<p>
+  This project is a large-scale narrative analysis of local news media pertaining to proposed rate increases to fund drinking water infrastructure investments across U.S. cities. The analysis will be used to identify common topics and possible successful narrative elements in generating political support. We theoretically situate this work within the Narrative Policy Framework in policy process research and seek to identify narrative attributes, through computational text analysis, that both descriptively characterize local policy narratives in the U.S. and relate the attributes to indicators of salience and political support.
+</p>
+  
 </details>
 
 ## Political Economy of Shared Infrastructure
