@@ -8,7 +8,7 @@ redirect_from:
 
 Below, I outline the projects that I am currently working on, each one being at a different stage of development. I note where the project fits within the research tracks I outline on my [About Me](/about/) page, infrastructure types examined, scope of the case, methods used, questions, relevant publications, and a project overview. Please reach out to me if you would like more information on any of the projects. 
 
-## Uncertainty, Institutional Design, Collaboration, and Infrastructure Investment
+## Polycentric Governance of Sustainable Infrastructure Transitions Under Uncertainty
 - ***Tracks:*** Empirical Investigation (2), Theoretical Modeling (3)
 - ***Infrastructure Type(s):*** Flooding and EV Charging
 - ***Scope:*** US Local Public Managers 
