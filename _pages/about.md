@@ -32,9 +32,17 @@ Refer to my [Current Projects](/projects/) for more information on work in each 
 
 News
 ======
+**June 4-6, 2026**: I attended the Public Management Research Conference (PMRC) at American University in Washington, DC. I presented my latest work on a general model of polycentric infrastructure transitions (more information [here](/projects/)) and had a blast reconnecting with the public administration community after a few years!
+
+<img src="/images/PMRC_2026.jpg" alt="Photo from PMRC 2026" width="400"/>
+
 **May 25-29, 2026**: I had the pleasure of participating in the third annual meeting of the [Beijer Young Scholars](https://beijer.kva.se/current-beijer-young-scholars/) fourth cohort, dedicated to studying interacting shocks in the biosphere. It is always a pleasure to reconnect with my now close friends from multiple geographic and interdisciplinary backgrounds. We advanced ongoing projects, including our work on the relationship betweeen interacting shocks and trust in institutions, and discussed our priorities for continuing the work after our cohort's formal program comes to a close this year.
 
-**April 8-10, 2026**: I co-convened a Micro Working Group at the Santa Fe Institute on the role of expertise in policy process and general institutional design implications (linked [here](https://www.santafe.edu/events/robust-institutional-design-in-expert-decision-maker-systems-2026)).
+<img src="/images/BYS_2026.jpg" alt="Photo from BYS 2026" width="400"/>
+
+**April 8-10, 2026**: I co-convened a Micro Working Group at the Santa Fe Institute to advance theory on the role of expertise in policy processes and general institutional design implications with a team of fellow early career scholars from social science and applied math (linked [here](https://www.santafe.edu/events/robust-institutional-design-in-expert-decision-maker-systems-2026)).
+
+<img src="/images/SFI_MWG_Experts.jpg" alt="Photo from SFI Micro Working Group" width="400"/>
 
 **February 23-25, 2026**: I gathered with some fellow members of the Beijer Young Scholars Program [Beijer Young Scholars](https://beijer.kva.se/current-beijer-young-scholars/) fourth cohort to (i) finalize our cohort's perspective piece on a research agenda for creeping changes and interacting shocks in the biosphere (working paper [linked here](https://eartharxiv.org/repository/view/13144/)) and (ii) advance a modeling and experimental study of how interacting shocks affect trust in institutions. 
 
