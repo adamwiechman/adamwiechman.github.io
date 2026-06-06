@@ -42,11 +42,11 @@ News
 
 **April 8-10, 2026**: I co-convened a Micro Working Group at the Santa Fe Institute to advance theory on the role of expertise in policy processes and general institutional design implications with a team of fellow early career scholars from social science and applied math (linked [here](https://www.santafe.edu/events/robust-institutional-design-in-expert-decision-maker-systems-2026)).
 
-<img src="/images/SFI_MWG_Experts.jpg" alt="Photo from SFI Micro Working Group" width="400"/>
+<img src="/images/SFI_MWG_Experts.JPG" alt="Photo from SFI Micro Working Group" width="400"/>
 
 **February 23-25, 2026**: I gathered with some fellow members of the Beijer Young Scholars Program [Beijer Young Scholars](https://beijer.kva.se/current-beijer-young-scholars/) fourth cohort to (i) finalize our cohort's perspective piece on a research agenda for creeping changes and interacting shocks in the biosphere (working paper [linked here](https://eartharxiv.org/repository/view/13144/)) and (ii) advance a modeling and experimental study of how interacting shocks affect trust in institutions. 
 
-<img src="/images/BYS_MexicoCity.jpg" alt="Photo from BYS Mexico City" width="400"/>
+<img src="/images/BYS_MexicoCity.JPG" alt="Photo from BYS Mexico City" width="400"/>
 
 **January 19, 2026**: NEW OPEN ACCESS PAPER! A paper I led on, "The Inclusion Trade-Off: Comparing the Design and Functionality of Collaborative Governance Forums" was published in [Policy Studies Journal](https://doi.org/10.1111/psj.70099). We explore how the level of inclusion in collaborative forums affects their functionality, as assessed by forum participants. As modern policy challenges continue to cross existing jurisdictions, a challenging question facing policy actors is deciding who to include in necessary collaborative forums. Our comparative work provides new insight for addressing this question and speaks to the need for more comparative work in the study of polycentric governance, inclusion, and collaboration. See [Current Projects](/projects/) for more information on the project. 
 
