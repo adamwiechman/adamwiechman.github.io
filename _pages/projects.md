@@ -131,7 +131,7 @@ My first manuscript with the model (under review) considers three key factors in
 
 ![Institutional Choice Architectures Model Overview](/images/InstFriction_OurApproach.png)
 
-(Wiechman et al, under review)
+(Wiechman et al, forthcoming)
 
 <details>
   <summary>
@@ -176,7 +176,7 @@ My first manuscript with the model (under review) considers three key factors in
 
 ![WUA Approach](/images/WUA_Figure1_R1.png)
 
-(Wiechman et al, under review)
+(Wiechman et al, 2026)
 
 <details>
   <summary>
