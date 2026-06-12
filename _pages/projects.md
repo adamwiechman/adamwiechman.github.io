@@ -150,7 +150,7 @@ My first manuscript with the model (under review) considers three key factors in
     <strong> Relevant Publications </strong>
   </summary>
 
-  <em>Under Review</em>: "Connecting Institutional Design to Infrastructure System Robustness: A Mixed Methods Investigation of Organizational Choice" with Aaron Deslatte, Elizabeth Koebele, Margaret Garcia, and Marty Anderies
+  <em>Forthcoming in Journal of Public Administration Research and Theory </em>: "Organizational Strategies for System Robustness: How Managers Navigate the Institutional Architecture of Complex Systems" with Aaron Deslatte, Elizabeth Koebele, Margaret Garcia, and Marty Anderies
 <br>
 <br>
 <em>Public Administration</em>: "Embracing the ambiguity: Tracing climate response diversity in urban water management. " with Aaron Deslatte (lead) and Elizabeth Koebele (2025) <a href="https://doi.org/10.1111/padm.13017">link</a>
@@ -195,7 +195,7 @@ My first manuscript with the model (under review) considers three key factors in
   <summary>
     <strong> Relevant Publications </strong>
   </summary>
-  <em>Under Review</em>: "The Inclusion-Consensus Trade-off: Comparing the Design and Functionality of Collaborative Water Governance Forums" with Elizabeth Koebele, Margaret Garcia, and Marty Anderies
+  <em>Policy Studies Journal</em>: "The Inclusion Trade-off: Comparing the Design and Functionality of Collaborative Governance Forums" with Elizabeth Koebele, Margaret Garcia, and Marty Anderies (2026) <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.70099">link</a>
 <br>
 <br>
   <em>Journal of Public Administration Research and Theory</em>: "The Role of Intermediate Collaborative Forums in Polycentric Environmental Governance" with Sara Alonso Vicario and Elizabeth Koebele (2023) <a href="https://doi.org/10.1093/jopart/muad017">link</a>
