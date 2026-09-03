@@ -8,27 +8,24 @@ redirect_from:
 
 Below, I outline the projects that I am currently working on, each one being at a different stage of development. I note where the project fits within the research tracks I outline on my [About Me](/about/) page, infrastructure types examined, scope of the case, methods used, questions, relevant publications, and a project overview. Please reach out to me if you would like more information on any of the projects. 
 
-## Polycentric Governance of Sustainable Infrastructure Transitions Under Uncertainty
+## Polycentric Governance of Infrastructure Transitions Under Uncertainty
 - ***Tracks:*** Empirical Investigation (2), Theoretical Modeling (3)
 - ***Infrastructure Type(s):*** Flooding and EV Charging
 - ***Scope:*** US Local Public Managers 
 - ***Method(s):*** Surveys, Interviews, Structural Equation Modeling, Agent-Based Modeling
 
 > ***Question(s):***
-> 1. How does environmental, financial, and user demand uncertainty affect local infrastructure managers, within varying organizational contexts and collaborative networks, in their, prioritization of investment strategies and participation behavior in collaborative forums?
+> 1. What are the institutional, behavioral, and financial enabling conditions for policy transitions in polycentric governance systems?
 > 2. How can institutional design be leveraged to increase the robustness of local and regional infrastructure systems to environmental, social, and funding uncertainty?
 
 <details>
   <summary>
     <strong>Project Overview</strong>
   </summary>
-<p>There is a resounding call from academics and practitioners to transition critical infrastructure systems, such as drinking water, storm water, transportation, and electricity, to both mitigate negative human influence on the environment and ensure that such critical systems can maintain their desired performance in unprecedented environmental changes (a.k.a., resilience). Moreover, the opportunity for transition coincides with increasing recognition of the need to fairly distribute the benefits and costs of infrastructure systems given their fundamental public value. 
+<p>There is a resounding call from academics and practitioners to transition critical infrastructure systems, such as drinking water, storm water, transportation, and electricity, to both mitigate negative human influence on the environment and ensure the systems can maintain their desired performance given unprecedented environmental changes (a.k.a., resilience). However, the transition cannot be achieved through the decision of one government or individual. Our modern systems of governance require navigation of polycentricity, defined as the multiple centers for decision making that take each other into account. In fact, the difficulty associated with navigating the institutional complexity of the U.S. system has been one of the largest roadblocks in the implementation of the Inflation Reduction Act and the Infrastructure Investment and Jobs Act. 
 </p>
 <p>
-However, given profound uncertainty pertaining to environmental and sociopolitical futures that our infrastructure systems are embedded within, it is imperative that our focus in deriving solutions extends beyond discrete investment or policy recommendations and examines the technical, institutional, and human determinants of information processing capacity that govern public infrastructure at multiple jurisdictional levels. One-shot policies can get our systems closer to a desired state, but neglecting the processes responsible for enacting and implementing the policy avoids the reality that there will always be a future problem. 
-</p>
-<p>
-Thus, the central motivation behind this project, which serves as the core of my postdoctoral work at Princeton and the Levin Lab, is understanding (i) the technical, institutional, and human constraints on information processing within policy and administrative systems governing public infrastructure and (ii) the implications of these constraints for the resilience and fairness of our critical infrastructure systems.
+Thus, the central motivation behind this project is to understand the enabling conditions for local policy actors within a polycentric governance system to adopt new investments in line with higher-level sustainability transitions. I move beyond rational choice considerations of expected utility to consider recent innovations in cognitive and behavioral science as well as nonlinear opinion dynamics, which examines the role of attention and neighbor-driven learning in decision making. 
 </p>
 <p>
 The project consists of two parallel lines of scholarly investigation: one empirical and one theoretical. The empirical work centers around a survey of local infrastructure providers in the US, specializing in flooding and EV charging infrastructure, regarding their investment priorities, strategies, and collaborative behavior with regional organizations and peer providers. The planned survey is a follow-up to a 2022 survey conducted by Indiana University (<a href="https://mgmt.lab.indiana.edu/performance/index.html">website</a>) as an assessment of Biden era infrastructure legislation implementation. Given repeals of federal funding in 2025, this next survey will also serve to assess the effect major investment repeals on local infrastructure planning and perception of policy uncertainty. 
