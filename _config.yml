@@ -25,11 +25,11 @@ author:
   avatar           : "chill_web.jpg"
   name             : "Adam H. Wiechman"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Postdoctoral Research Associate\nPolitics, Resilience, & Fairness\nof Infrastructure"
-  location         : "Princeton, NJ"
-  employer         : "Princeton University"
+  bio              : "Assistant Professor\nPolitics, Resilience, & Fairness\nof Infrastructure Systems"
+  location         : "New York, NY"
+  employer         : "NYU Wagner"
   uri              : # URL
-  email            : "aw9050 AT princeton DOT edu" 
+  email            : "adam.wiechman AT nyu DOT edu" 
 
   # Academic websites
   academia         : # URL
