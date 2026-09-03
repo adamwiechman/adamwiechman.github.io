@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Postdoctoral Research Associate in the [High Meadows Environmental Institute](https://environment.princeton.edu/people/adam-wiechman/), working in the [Levin Lab](https://slevin.princeton.edu/people/adam-wiechman-phd) and [Behavioral Science for Policy Lab](https://bspl.lab.princeton.edu/people/adam-wiechman-postdoctoral-researcher), at Princeton University. In September 2026, I will join the [Wagner School of Public Service](https://wagner.nyu.edu/) at New York University as an Assistant Professor. 
+Hello! I am an assistant professor in the [Robert F. Wagner School of Public Service](https://wagner.nyu.edu/community/faculty/adam-wiechman) at New York University. Before NYU, I was a postdoctoral researcher in the [High Meadows Environmental Institute](https://environment.princeton.edu/people/adam-wiechman/), working in the [Levin Lab](https://slevin.princeton.edu/people/adam-wiechman-phd) and [Behavioral Science for Policy Lab](https://bspl.lab.princeton.edu/people/adam-wiechman-postdoctoral-researcher), at Princeton University. I earned my PhD in Sustainability with a concentration in Complex Adaptive Systems Science from the School of Sustainability at Arizona State University in May 2025, advised by Marty Anderies. While at ASU, I was a National Science Foundation Graduate Research Fellow and received the [Outstanding Graduating Student Award](https://news.asu.edu/20250509-sun-devil-community-asu-grad-takes-interdisciplinary-water-research-princeton-then-nyu) for the College of Global Futures. I have an interdisciplinary background in engineering and politics, having earned dual bachelor's degrees in Environmental Engineering and Political Science from the University of Notre Dame (2020) as well as working in a variety of engineering and policy research roles before graduate school. 
 
-I earned my PhD in Sustainability with a concentration in Complex Adaptive Systems Science from the School of Sustainability at Arizona State University in May 2025, advised by Marty Anderies. While at ASU, I was a National Science Foundation Graduate Research Fellow and received the [Outstanding Graduating Student Award](https://news.asu.edu/20250509-sun-devil-community-asu-grad-takes-interdisciplinary-water-research-princeton-then-nyu) for the College of Global Futures. I have an interdisciplinary background in engineering and politics, having earned dual bachelor's degrees in Environmental Engineering and Political Science from the University of Notre Dame (2020) as well as working in a variety of engineering and policy research roles before graduate school. A key throughline in my work is bringing the political and governance realities of infrastructure investment into our scholarly and practical understanding of infrastructure systems. 
+A key throughline in my work is bringing the political and governance realities of infrastructure investment into our scholarly and practical understanding of infrastructure systems. 
 
 My Work
 ======
@@ -32,6 +32,8 @@ Refer to my [Current Projects](/projects/) for more information on work in each 
 
 News
 ======
+**September 1, 2026**: I began my new position as Assistant Professor of Public Service at New York University. I am very excited for the new chapter in my academic journey, and I cannot wait to get involved with the vibrant NYU Wagner community! I will be teaching Introduction to Public Policy this fall and continuing projects outlined in my [Current Projects](/projects/) tab. 
+
 **June 4-6, 2026**: I attended the Public Management Research Conference (PMRC) at American University in Washington, DC. I presented my latest work on a general model of polycentric infrastructure transitions (more information [here](/projects/)) and had a blast reconnecting with the public administration community after a few years!
 
 <img src="/images/PMRC_2026.jpg" alt="Photo from PMRC 2026" width="400"/>
