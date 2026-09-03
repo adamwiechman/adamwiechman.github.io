@@ -43,7 +43,7 @@ On the theory side, I am developing an agent-based model (ABM) of collective inf
 - ***Method(s):*** Topic Modeling, Text Mining, Media Analysis
 
 > ***Questions(s):***
-> What are the attributes of policy narratives used to justify rate increases for public infrastructure investment in the US?
+> What are the common attributes of policy narratives used to support and oppose rate increases for public infrastructure investment in the US?
 > What attributes are more successful in generating political support for the rate increases?
 
 <details>
