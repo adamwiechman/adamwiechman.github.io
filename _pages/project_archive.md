@@ -20,7 +20,7 @@ Below, I outline projects that I have worked on in the past. I note where the pr
 
 ![Institutional Choice Architectures Model Overview](/images/InstFriction_OurApproach.png)
 
-(Wiechman et al, forthcoming)
+(Wiechman et al, 2026)
 
 <details>
   <summary>
